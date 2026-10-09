@@ -49,3 +49,14 @@ body {
 
 .flash { background-color: white !important; }
 .userflash { background-color: green !important; }
+
+footer {
+    margin-top: 2rem;
+    font-size: 1rem;
+    color: #555;
+    font-family: sans-serif;
+}
+
+footer b {
+    color: #000;
+}
